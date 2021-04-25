@@ -1,4 +1,4 @@
-Theme : Broadcast football amateur games with tracking football ball
+Theme : Broadcast football amateur games with tracking football ball in real time
 
 -Purpose
 
@@ -10,18 +10,16 @@ and if you want to leave a video like this, the goal is to detect the ball and a
 
 -Operation
 
-opencv & keras & dlib : face detection, eye roi
-
 train : AlexeyAB darknet YOLOv4 
 
-detection : raspberry pi 4 4gb + raspberry pi IR-CUT camera
+detection : 
 
-operation : Started state, regardless of Excel, the speed of the car is not 0km. Warning sound when closed for 2.5 to 3 seconds.
+operation : 
 
 -datasets
 
 taken by myself
 
-total 1000 images. 
+1000 images. Train : Val : Test = 7 : 2 : 1
 
 -requirements
