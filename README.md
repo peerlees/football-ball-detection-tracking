@@ -29,3 +29,9 @@ taken by myself
 ![그림2](https://user-images.githubusercontent.com/82746560/116024856-1997ab80-a68a-11eb-809e-5dde1cfa730f.jpg)
 
 ![그림3](https://user-images.githubusercontent.com/82746560/116024868-1ef4f600-a68a-11eb-9637-2b65e1721b98.png)
+
+-result
+
+pc
+
+jetson nano with logitech camera
