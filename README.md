@@ -1,4 +1,4 @@
-![캡처](https://user-images.githubusercontent.com/82746560/132535959-4ae06536-c0c9-458b-a32f-de3c4df1ce4a.PNG)
+
 Theme : Broadcast football amateur games with tracking football ball in real time
 
 -Purpose
@@ -34,5 +34,6 @@ taken by myself
 -result
 
 pc
-
+![캡처](https://user-images.githubusercontent.com/82746560/132535959-4ae06536-c0c9-458b-a32f-de3c4df1ce4a.PNG)
 jetson nano with logitech camera
+![11](https://user-images.githubusercontent.com/82746560/132536150-1217116e-54b7-4d48-bf3a-004f0c2221e6.PNG)
